@@ -7,7 +7,7 @@ The following graphs were created:
 * Number of Projects by Category and State
 * Number of Projects by Sub-Category and State
 * Number of Projects by Campaign Launch Month and State
-* Goal Amount vs. Percentage of Successful, Failed, and Canceled Projects
+* Goal Amount vs. Percentage of Successful, Failed, and Cancelled Projects
 
 ## **Tools:**
 1. Excel
