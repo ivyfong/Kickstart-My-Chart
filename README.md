@@ -10,7 +10,7 @@ The following graphs were created:
 * Goal Amount vs. Percentage of Successful, Failed, and Cancelled Projects
 
 ## **Tools:**
-1. Excel
+Microsoft Excel
 
 ## **Screenshots (Graphs):**
 ![graph1.jpg](Images/graph1.JPG)
